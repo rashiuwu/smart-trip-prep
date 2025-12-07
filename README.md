@@ -52,11 +52,11 @@ This makes the module **context-aware for Indian office workers**.
    cd smart-trip-prep
 
 2. Install dependencies:
- ```bash
-pip install -r requirements.txt
-
+   ```bash
+   pip install -r requirements.txt
+ 
 3. Run the Streamlit app:
- ```bash
-streamlit run trip_prep_page.py
+  ```bash
+   streamlit run trip_prep_page.py
 
 4. Open the link shown in the terminal (usually http://localhost:8501).
