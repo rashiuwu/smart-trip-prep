@@ -57,6 +57,6 @@ This makes the module **context-aware for Indian office workers**.
  
 3. Run the Streamlit app:
   ```bash
- streamlit run trip_prep_page.py
+  streamlit run trip_prep_page.py
 
 4. Open the link shown in the terminal (usually http://localhost:8501).
